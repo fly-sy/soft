@@ -1,0 +1,25 @@
+/**
+ *
+ * @email   942093888@qq.com
+ * @date    2016-09-09 05:47:36
+ * @date    2016-09-09 05:47:36
+ * @version 1.0
+ */
+
+    /*banner start*/
+    #banner{width:100%;height:26px;background:url("../images/2.jpg") no-repeat top center;padding-top:214px;}
+    /*end banner*/
+
+    /*about start*/
+    #about{width:1000px;margin:20px auto;}
+    #about .a_left{width:660px;background:#fff;box-shadow: 1px 1px 5px 0px #333;border-radius:3px;padding:30px 20px;float:left;}
+    #about .a_left h1{font-size:30px;font-weight:300;margin-bottom:20px;}
+    #about .a_left .a_time{font-size:14px;}
+    #about .a_left .a_time span{color:#adadad;}
+    #about .a_left .a_tel{font-size:44px;color:#f00;font-weight:bold;margin:5px 0;}
+    #about .a_left .a_name{font-weight:300;font-size:18px;}
+    #about .a_left .a_address{font-size:14px;line-height:22px;margin-top:5px;}
+    #about .a_left .a_map{width:660px;height:500px;margin-top:20px;}
+    #about .a_right{width:260px;height:500px;background:#fff;float:right;border-radius:3px;box-shadow: 1px 1px 5px 0px #333;}
+    /*end about*/
+

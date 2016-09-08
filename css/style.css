@@ -1,0 +1,34 @@
+/**
+ *
+ * @email   942093888@qq.com
+ * @date    2016-09-09 06:05:55
+ * @date    2016-09-09 06:05:55
+ * @version 1.0
+ */
+    /* html element */
+    *{margin:0;padding:0;}
+    body{font-size:12px;font-family:"微软雅黑";color:#666;background:url("../images/bg.png");}
+    /* end html element */
+    /*top start*/
+    #top{width:100%;height:80px;background:#fff;}
+    #top .t_header{width:1000px;height:80px;margin:0 auto;}
+    #top .t_header .t_logo{float:left;margin-top:6px;}
+    #top .t_header .t_nav{float:left;}
+    #top .t_header .t_nav .t_ul li{list-style:none;float:left;line-height:80px;}
+    #top .t_header .t_nav .t_ul li a{font-size:16px;color:#666;text-decoration:none;margin-left: 20px;}
+    #top .t_header .t_nav .t_ul .t_sel{border-bottom:3px solid #D03D43;padding-bottom:3px;}
+    #top .t_header .t_nav .t_ul li a:hover{border-bottom:3px solid #D03D43;padding-bottom:3px;}
+    #top .t_header .t_share{float:right;}
+    #top .t_header .t_share a{width:38px;height:38px;display:block;float:left;margin: 22px 0px 0px 8px;position:relative;overflow:hidden;}
+    #top .t_header .t_share a span{width:38px;height:80px;display:block;background:url("../images/wei.png") no-repeat;position:absolute;}
+    #top .t_header .t_share .t_wb .wb{background-position:3px 6px;}
+    #top .t_header .t_share .t_wx .wx{background-position:-34px 6px;}
+    #top .t_header .t_share .t_qq .qq{background-position:-80px 6px;}
+    /*end top*/
+
+    /*footer start*/
+    .footer{width:100%;height:50px;background:#fff;}
+    .footer p{text-align:center;line-height:50px;font-size:14px;}
+    /*end footer*/
+
+    .clear{clear:both;}
